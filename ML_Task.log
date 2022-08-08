@@ -1,0 +1,3 @@
+2022-08-08 10:01:48,254 model=Gaussian Naive Bayes, split=50-50, accuracy=0.88
+2022-08-08 10:01:48,254 model=Gaussian Naive Bayes, split=70-30, accuracy=0.86
+2022-08-08 10:01:48,254 model=Gaussian Naive Bayes, split=80-20, accuracy=0.88
