@@ -59,13 +59,3 @@ if __name__ == '__main__':
     log(logger,"Gaussian Naive Bayes", "70-30", accuracy03)
     log(logger,"Gaussian Naive Bayes", "80-20", accuracy02)
 
-
-# print("Original 'input.csv' CSV Datasets: \n")
-# print(data)
-# # display
-# print("\nCSV Datasets after deleting the column 'year':\n")
-# print(data)
-# print(data["Purchased"].shape)
-
-# print("Number of mislabeled points out of a total %d points : %d" % (X_test.shape[0], (y_test != y_pred).sum()))
-# print(accuracy05*100,accuracy03*100,accuracy02*100)
